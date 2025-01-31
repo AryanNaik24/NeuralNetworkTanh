@@ -18,13 +18,13 @@ pip install numpy
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AryanNaik24/neural-network-from-scratch.git
-   cd neural-network-from-scratch
+   git clone https://github.com/AryanNaik24/NeuralNetworkTanh.git
+   cd NeuralNetworkTanh
    ```
 
 2. Run the script:
    ```sh
-   python neural_network.py
+   python main.py
    ```
 
 ## Code Overview
